@@ -1,0 +1,6 @@
+langchain
+langchain_community
+unstructured[md] # Document loading
+chromadb # Vector storage
+ollama
+streamlit
